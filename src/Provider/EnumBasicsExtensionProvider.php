@@ -1,6 +1,6 @@
 <?php
 
-namespace GustavoSantarosa\EnumBasicsExtension\Provider;
+namespace QuantumTecnology\EnumBasicsExtension\Provider;
 
 use Illuminate\Support\ServiceProvider;
 

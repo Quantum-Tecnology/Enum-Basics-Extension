@@ -1,6 +1,6 @@
 <?php
 
-namespace GustavoSantarosa\EnumBasicsExtension;
+namespace QuantumTecnology\EnumBasicsExtension;
 
 use Illuminate\Support\Collection;
 
